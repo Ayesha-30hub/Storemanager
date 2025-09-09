@@ -1,2 +1,2 @@
 # Storemanager
-React Store Manager Application Project Description A responsive store manager application built with React.js for managing product inventory and sales in a retail store.  Features Product catalog with images and prices  Add to cart and checkout workflow  Sales Record page tracking completed purchases  Inventory management.
+This project is a simple Store Manager Frontend built with React, consisting of three main pages: Home, Inventory, and Cart. The Home page displays products with their details, the Inventory page helps manage product information like stock and tags, and the Cart page shows the items added by the user. It showcases the use of React components, context, and state management to build a basic e-commerce interface.
